@@ -1,1 +1,1 @@
-# acme_products_categories_faker
+acme_products_categories_faker
